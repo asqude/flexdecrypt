@@ -1,4 +1,4 @@
-## iOS App & Mach-O binary decryption
+## iOS App & Mach-O binary decryptio
 This is a decryption tool for research purposes. It uses mremap_encrypted to decrypt a file from disk.  
 
 ### Installation  
